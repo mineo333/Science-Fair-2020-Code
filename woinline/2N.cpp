@@ -1,4 +1,5 @@
-	#include <iostream>
+//thank you to the  Free Software Foundation for the function attribute "always-inline"
+#include <iostream>
 #include <time.h>
 #include <stdio.h>
 #include <math.h>
